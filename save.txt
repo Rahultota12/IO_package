@@ -1,0 +1,25 @@
+Movie Name: Hiro
+Actor Name: shahru khan
+Director Name: xyz
+Released Year: 2002
+Rating: 7.7
+Movie Name: don
+Actor Name: sahruk
+Director Name: sdf
+Released Year: 2003
+Rating: 8.0
+Movie Name: 2.o
+Actor Name: rajnikant
+Director Name: we
+Released Year: 2021
+Rating: 9.0
+Movie Name: pushpa
+Actor Name: alluArjun
+Director Name: ert
+Released Year: 2022
+Rating: 10.0
+Movie Name: RRR
+Actor Name: ram charn, junior ntr
+Director Name: ss rajamoli
+Released Year: 2022
+Rating: 9.9
